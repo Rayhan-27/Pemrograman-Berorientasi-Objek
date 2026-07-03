@@ -286,3 +286,5 @@ public class Menu {
         }
     }
 }
+
+// CARA RUNNING java -cp ".;lib/mysqlconnector.jar" Menu
